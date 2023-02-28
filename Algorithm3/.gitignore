@@ -1,0 +1,4 @@
+# don't sync some of these temporary files.
+.DS_store
+*~
+*.tmp
